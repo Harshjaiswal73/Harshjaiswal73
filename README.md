@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshjaiswal73
-- 👀 I’m interested in fullstack developer
+- 👀 I’m  Java developer
 - 🌱 I’m currently learning bachelor of computer application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
